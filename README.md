@@ -1,5 +1,10 @@
 # NFA-TO-DFA
 
+NFA Transition Table
+
+![image](https://user-images.githubusercontent.com/70995063/122810079-8b881c00-d2ec-11eb-921c-732c1d8a5f9d.png)
+
+
 I/O Example
 
 No. of states : 3
